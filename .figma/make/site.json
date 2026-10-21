@@ -1,0 +1,10 @@
+{
+  "description": "Provides a simple, user-friendly interface to initiate and manage tasks efficiently, enhancing productivity for individuals and teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
